@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        Hello World (from the MyView)<!--Tout s'execute normal-->
+        Quel heure est-il chez vous??<br /><label>@ViewBag.hour @ViewBag.minutes @ViewBag.secondes</label>
+        <br />@ViewBag.Greeting<br/>
+        <p>
+            We're going to have an exciting party.<br />
+            (To do: sell it better. Add pictures or something.)
+        </p>
+        <a asp-action="RsvpForm">Rsvp Now!!</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,88 @@
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\appsettings.Development.json
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\appsettings.json
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.exe
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.deps.json
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.runtimeconfig.json
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.runtimeconfig.dev.json
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.dll
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\ref\Essai_WebApplicationMVC.dll
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.pdb
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.Views.dll
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.Views.pdb
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.csproj.AssemblyReference.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.AssemblyInfoInputs.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.AssemblyInfo.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.csproj.CoreCompileInputs.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorAssemblyInfo.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorAssemblyInfo.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\staticwebassets\Essai_WebApplicationMVC.StaticWebAssets.Manifest.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\staticwebassets\Essai_WebApplicationMVC.StaticWebAssets.xml
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\scopedcss\bundle\Essai_WebApplicationMVC.styles.css
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.TagHelpers.input.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.TagHelpers.output.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorCoreGenerate.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorTargetAssemblyInfo.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorTargetAssemblyInfo.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.Views.pdb
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.dll
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\ref\Essai_WebApplicationMVC.dll
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.pdb
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.genruntimeconfig.cache
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.csproj.CopyComplete
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\MyView.cshtml.g.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\RsvpForm.cshtml.g.cs
+E:\Workspace\WorkSpace Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\Thanks.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\appsettings.Development.json
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\appsettings.json
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.exe
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.deps.json
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.runtimeconfig.json
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.runtimeconfig.dev.json
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.dll
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\ref\Essai_WebApplicationMVC.dll
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.pdb
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.Views.dll
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\bin\Debug\net5.0\Essai_WebApplicationMVC.Views.pdb
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.csproj.AssemblyReference.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.AssemblyInfoInputs.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.AssemblyInfo.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.csproj.CoreCompileInputs.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorAssemblyInfo.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorAssemblyInfo.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\staticwebassets\Essai_WebApplicationMVC.StaticWebAssets.Manifest.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\staticwebassets\Essai_WebApplicationMVC.StaticWebAssets.xml
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\scopedcss\bundle\Essai_WebApplicationMVC.styles.css
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.TagHelpers.input.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.TagHelpers.output.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorCoreGenerate.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\MyView.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\RsvpForm.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\Thanks.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorTargetAssemblyInfo.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.RazorTargetAssemblyInfo.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.Views.pdb
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.dll
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\ref\Essai_WebApplicationMVC.dll
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.pdb
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.genruntimeconfig.cache
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Essai_WebApplicationMVC.csproj.CopyComplete
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\ListResponses.cshtml.g.cs
+E:\Workspace\WorkSpace_Visual\Brouillons\Essai_WebApplicationMVC\Essai_WebApplicationMVC\obj\Debug\net5.0\Razor\Views\Home\Confirmation.cshtml.g.cs

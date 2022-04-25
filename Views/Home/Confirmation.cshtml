@@ -1,0 +1,39 @@
+﻿@model Essai_WebApplicationMVC.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Confirmation</title>
+</head>
+<body>
+
+    <p>
+        @if (Model.WillAttend == true)
+        {
+            @: @Model.Name, veux tu vraiment rejoindre tes camarades a notre party ??
+
+            @:  Confirme, stp...<br />
+            <button type="submit">Confirmer</button>
+            <input type="button" onclick=window.location.href ="Index" ; value=Retourner />
+        }
+        else
+        {
+<p>
+            <!--Comment renvoyer une methode de notre controleur?-->
+            Dommage que vous ne pouviez assiter. Venez, si cela vous tente...
+
+            <input type="button" onclick=window.location.href ="Index" ; value="Annuler" />
+        </p>
+    }
+
+        </p>
+
+    </body>
+
+
+
+</html>

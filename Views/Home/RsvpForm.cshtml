@@ -1,0 +1,46 @@
+﻿@model Essai_WebApplicationMVC.Models.GuestResponse
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RsvpForm</title>
+</head>
+<body>
+    @*<div>
+        This is the RsvpForm.cshtml View<br />
+        <a asp-action="Index">retour</a>
+    </div>*@
+
+    <!--Creation du formulaire...-->
+    <form asp-action="RsvpForm" method="post">
+        <p>
+            <label asp-for="Name">Ton nom:</label>
+            <input asp-for="Name" />
+        </p>
+        <p>
+            <label asp-for="Email">Ton Email:</label>
+            <input asp-for="Email" />
+        </p>
+        <p>
+            <label asp-for="Phone">Ton tel:</label>
+            <input asp-for="Phone" />
+        </p>
+        <p>
+            <label>Va-tu participer ami?</label>
+            <select asp-for="WillAttend">
+                <option value="">Fais ton choix</option>
+                <option value="true">Je suis excite a prendre part</option>
+                <option value="false">Je serais occupe ailleur</option>
+            </select>
+        </p>
+        <button type="submit">Envoyer</button>
+        <input type="button" onclick=window.location.href="Index"; value=Retourner />
+    </form>
+
+
+
+</body>
+</html>

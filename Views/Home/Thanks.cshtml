@@ -1,0 +1,32 @@
+﻿@model Essai_WebApplicationMVC.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    <p>
+        <h1> Thanks you, @Model.Name!</h1>
+        @if (Model.WillAttend == true && Model.Confirmation == true)
+        {
+
+
+                @: Cool que tu sois parmis les notre!! Nous n'attendrions que toi
+          <p>
+              En attendant, <a asp-action="ListResponses">Click ici</a> pour voir qui participe!! Tu a peut-etre des amis))
+                <br /><pre> Ou bien, <a asp-action="Index   ">retourner a la page principale</a></pre>
+          </p>
+         }
+    else
+    {
+        @: Dommage que tu hesite...
+        <br /><pre><a asp-action="Index">retourner a la page principale</a></pre>
+    }
+        </p>
+    </body>
+</html>
